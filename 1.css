@@ -1,0 +1,15 @@
+.Заголовок{
+	width: 20%;
+	background: #008000;
+}
+.page{
+	width: 439px;
+	height: 580px;
+	padding: 10px;
+	background: #00FFFF;
+	background: linear-gradient(to top,#00008B,#800080)
+}
+.kart{
+	background-image: url(https://www.colornumbers.ru/wa-data/public/shop/products/36/16/21636/images/25024/25024.900.jpg);
+	height: 530px;
+}
